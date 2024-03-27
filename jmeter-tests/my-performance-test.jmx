@@ -136,7 +136,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
@@ -173,7 +173,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
@@ -210,7 +210,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -247,7 +247,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="AssertionVisualizer" testclass="ResultCollector" testname="Assertion Results" enabled="true">
@@ -284,7 +284,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="true">
@@ -321,7 +321,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">D:\JMeterTesting\L1testing\report.csv</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\jmeter-performance-test\report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
