@@ -62,7 +62,7 @@
               </collectionProp>
             </elementProp>
             <stringProp name="HTTPSampler.domain">${host}</stringProp>
-            <stringProp name="HTTPSampler.port">${port}</stringProp>
+            <stringProp name="HTTPSampler.port"></stringProp>
             <stringProp name="HTTPSampler.protocol">${protocol}</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
             <stringProp name="HTTPSampler.path">${path}</stringProp>
@@ -80,12 +80,12 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="protocol" elementType="Argument">
                 <stringProp name="Argument.name">protocol</stringProp>
-                <stringProp name="Argument.value">http</stringProp>
+                <stringProp name="Argument.value">https</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="host" elementType="Argument">
                 <stringProp name="Argument.name">host</stringProp>
-                <stringProp name="Argument.value">u1091549.test.cloud.fedex.com</stringProp>
+                <stringProp name="Argument.value">fxo-upload-l1.test.cloud.fedex.com</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="port" elementType="Argument">
